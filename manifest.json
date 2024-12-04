@@ -1,0 +1,68 @@
+{
+    "name": "Aplicación web progresiva",
+    "short_name":"Simona Muñoz Camacho",
+    "description": "practica de la asignatura de apicaciones web",
+    "background_color": "#FFF",
+    "theme_color": "#FB314E",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-ES",
+    "icons": [
+        {
+            "src": "img/favicon1.png",
+            "sizes": "1024x1024",
+            "type": "img/png"
+
+        },
+        {
+            "src": "img/favicon2.png",
+            "sizes": "512x512",
+            "type": "img/png"
+        },
+        {
+            "src": "img/favicon3.png",
+            "sizes": "384x384",
+            "type": "img/png"
+        },
+        {
+            "src": "img/favicon4.png",
+            "sizes": "256x256",
+            "type": "img/png"
+        },
+        {
+            "src": "img/favicon5.png",
+            "sizes": "192x192",
+            "type": "img/png"
+        },
+        {
+            "src": "img/favicon6.png",
+            "sizes": "128x128",
+            "type": "img/png"
+        },
+        {
+            "src": "img/favicon7.png",
+            "sizes": "96x96",
+            "type": "img/png"
+        },
+        {
+            "src": "img/favicon8.png",
+            "sizes": "64x64",
+            "type": "img/png"
+        },
+        {
+            "src": "img/favicon9.png",
+            "sizes": "32x32",
+            "type": "img/png"
+        },
+        {
+            "src": "img/favicon10.png",
+            "sizes": "16x16",
+            "type": "img/png"
+        }
+        
+    ]
+
+
+}
